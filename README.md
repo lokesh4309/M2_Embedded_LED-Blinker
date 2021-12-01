@@ -10,7 +10,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1d41ba86c37740cc8a1eb87775ba3979)](https://www.codacy.com/gh/lokesh4309/M2_Embedded_LED-Blinker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lokesh4309/M2_Embedded_LED-Blinker&amp;utm_campaign=Badge_Grade)
 
 # Code Quality
-[![Code_Quality](https://api.codiga.io/project/30176/score/svg)
+![Code_Quality](https://api.codiga.io/project/30176/score/svg)
 
 # Code Grade
-[![Code_Grade](https://api.codiga.io/project/30176/status/svg)
+![Code_Grade](https://api.codiga.io/project/30176/status/svg)
