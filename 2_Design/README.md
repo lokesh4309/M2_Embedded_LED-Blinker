@@ -14,3 +14,5 @@
 
 ![BLOCK Diag](https://user-images.githubusercontent.com/94420732/144303608-aa866716-8aa0-4db4-be77-4f4cf87dcdb9.jpeg)
 
+# Simulation
+![switch off](https://user-images.githubusercontent.com/94420732/144376267-16bc55a4-4a4c-43b1-b676-fcb98c419cd8.png)
