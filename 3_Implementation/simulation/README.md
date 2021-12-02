@@ -6,3 +6,5 @@
 ![switch on 1](https://user-images.githubusercontent.com/94420732/144376500-90a4c127-8f55-45cd-8012-7e7b29983d72.png)
 
 ![switch on 2](https://user-images.githubusercontent.com/94420732/144376517-0f054288-5ea9-4bbd-8bf4-87ab22f94218.png)
+
+![output 1](https://user-images.githubusercontent.com/94420732/144377263-2d5c9a89-9917-4e9e-ab77-7ff3a19820e0.gif)
